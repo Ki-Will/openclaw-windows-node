@@ -361,6 +361,3 @@ visual-test-output/
 msix-validation-evidence/
 packaging-test-output/
 uninstall-validation-output/
-branch_structure.json
-temp_auto_push.bat
-temp_interactive_push.bat
